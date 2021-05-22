@@ -1,4 +1,4 @@
-Copyright (C) 2021 Machine Intelligence Group, IIT Roorkee, India. This software was developed by Puneet Kumar, Yukti Gupta, and Vedanti Khokher at Machine Intelligence Lab, IIT Roorkee, India. More details available at README.md.
+Copyright (C) 2021 Machine Intelligence Group, IIT Roorkee, India. This software was developed by Puneet Kumar, Yukti Gupta, and Vedanti Khokher at Machine Intelligence Lab, IIT Roorkee, India. More details available at `README.md`.
 
 Redistribution and use in source and binary forms, with or without modification, are permitted for non-commercial purposes and products alike, provided that the following conditions are met:
 * Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files, to deal in the Software without restriction, for non-commercial purposes, including use, copy, modify, merge, publish and re-distribute.
